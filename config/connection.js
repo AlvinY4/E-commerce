@@ -16,15 +16,4 @@ if (process.env.JAWSDB_URL) {
   });
 }
 
-// const sequelize = new Sequelize('ecommerce_db', 'newuser', 'Rr!528183', {
-//   host: 'localhost',
-//   dialect: 'mysql',
-//   dialectOptions: {
-//     decimalNumbers: true,
-//   },
-// });
-
-
-
-
 module.exports = sequelize;
