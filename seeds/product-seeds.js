@@ -15,7 +15,7 @@ const productData = [
   },
   {
     product_name: 'Branded Baseball Hat',
-    price: 22.99,
+    price: 21.99,
     stock: 12,
     category_id: 4,
   },
